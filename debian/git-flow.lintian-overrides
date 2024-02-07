@@ -1,0 +1,5 @@
+git-flow: copyright-without-copyright-notice
+git-flow: executable-not-elf-or-script
+git-flow: initial-upload-closes-no-bugs
+git-flow: no-manual-page
+git-flow: zero-byte-file-in-doc-directory

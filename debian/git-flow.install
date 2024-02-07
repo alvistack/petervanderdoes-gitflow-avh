@@ -1,0 +1,14 @@
+usr/bin/git-flow
+usr/bin/git-flow-bugfix
+usr/bin/git-flow-config
+usr/bin/git-flow-feature
+usr/bin/git-flow-hotfix
+usr/bin/git-flow-init
+usr/bin/git-flow-log
+usr/bin/git-flow-release
+usr/bin/git-flow-support
+usr/bin/git-flow-version
+usr/bin/gitflow-common
+usr/bin/gitflow-shFlags
+usr/share/bash-completion/completions/git-flow
+usr/share/doc/git-flow/hooks/*
